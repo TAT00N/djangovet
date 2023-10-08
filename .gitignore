@@ -19,3 +19,6 @@ venv/
 
 # pycharm
 .idea/
+
+#
+/projectname/settings.py
